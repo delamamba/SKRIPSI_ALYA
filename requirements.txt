@@ -1,0 +1,11 @@
+# RIMPANG AI - kebutuhan website
+flask
+torch
+torchvision
+pillow
+numpy
+
+# Tambahan jika ingin menjalankan notebook training (opsional):
+# scikit-learn
+# matplotlib
+# pandas

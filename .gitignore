@@ -1,0 +1,22 @@
+# Dataset (disimpan di Google Drive)
+dataset/
+Dataset/
+DATASET/
+
+# Virtual Environment Python
+.venv/
+venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Model hasil training
+*.pth
+*.pt
+
+# Log
+*.log
